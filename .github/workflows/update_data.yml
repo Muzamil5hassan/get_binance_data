@@ -29,7 +29,7 @@ jobs:
 
       - name: Run Python script
         run: |
-          python market_data.py
+          python app.py
 
       - name: Commit and push CSV
         run: |
