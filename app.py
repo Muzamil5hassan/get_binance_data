@@ -10,7 +10,8 @@ from scipy.stats import linregress
 
 BINANCE_URL = "https://data-api.binance.vision/api/v3/klines"
 
-SYMBOL = "BTCUSDT"
+# SYMBOL = "BTCUSDT"
+SYMBOL = "XAUUSDT"
 INTERVAL = "5m"
 
 LIMIT = 999
