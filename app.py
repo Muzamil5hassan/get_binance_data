@@ -13,7 +13,7 @@ BINANCE_URL = "https://data-api.binance.vision/api/v3/klines"
 SYMBOL = "BTCUSDT"
 INTERVAL = "5m"
 
-LIMIT = 500
+LIMIT = 1100
 
 
 # ============================================================
